@@ -1,5 +1,57 @@
-a{
-  border-radius: 20px;
-  margin-left: auto
+* {
+  text-align: center;
+  background-color: rgb(201, 181, 9);
+  font-family: fantasy;
+}
+
+p {
+  color: rgb(0, 0, 0);
+}
+.title {
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: rgb(250, 3, 3);
+}
+img {
+  border-radius: 10px;
+  display: block;
+  margin-left: auto;
   margin-right: auto;
+  width: 22.5%;
+}
+.poster {
+  color: rgb(201, 9, 175);
+  color: rgb(250, 3, 3);
+}
+
+.circle img {
+  transition: 1s ease;
+}
+
+.circle img:hover {
+  border-radius: 50%;
+  transition: 1s ease;
+}
+.email {
+  font-size: 20px;
+}
+.info {
+  font-size: 20px;
+}
+.jason {
+  height: 190px;
+  width: 150px;
+}
+.dude {
+  font-size: 20px;
+  color: aquamarine;
+}
+#mySidenav {
+  float: left;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin-top: 30;
 }
