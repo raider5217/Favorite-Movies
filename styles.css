@@ -1,12 +1,14 @@
 * {
   text-align: center;
   background-color: beige;
-  font-family: fantasy;
+  font-family: ui-rounded;
+  font-weight: lighter;
 }
 
 p {
   color: rgb(0, 0, 0);
 }
+
 .title {
   text-align: center;
   text-decoration: underline;
