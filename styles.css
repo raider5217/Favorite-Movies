@@ -20,8 +20,7 @@ img {
   width: 22.5%;
 }
 .poster {
-  color: rgb(201, 9, 175);
-  color: rgb(250, 3, 3);
+  color: rgb(7, 54, 241);
 }
 
 .circle img {
@@ -44,8 +43,15 @@ img {
 }
 .dude {
   font-size: 20px;
-  color: aquamarine;
+  color: rgb(190, 29, 8);
 }
+a:active {
+  color: rgb(190, 29, 8);
+}
+a:hover {
+  color: rgb(190, 29, 8);
+}
+
 #mySidenav {
   float: left;
 }
