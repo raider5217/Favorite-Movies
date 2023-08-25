@@ -63,3 +63,10 @@ ul {
   padding: 0;
   margin-top: 30;
 }
+#clock {
+  font-size: 20px;
+  background-color: tan;
+}
+#date {
+  background-color: tan;
+}
